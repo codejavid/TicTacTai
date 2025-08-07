@@ -51,8 +51,6 @@ This project demonstrates how to use real LLMs like DeepSeek to build a smart AI
 
 ---
 
-## 💬 Built with ❤️ 📷 Instagram – @codejavid 🎥 YouTube – CodeJavid 🧠 LinkedIn – CodeJavid
-
-## 📸 Screenshot
+## 💬 Built with ❤️ 📷 Instagram – @codejavid 🎥 YouTube – @GPTcodejavid 🧠 LinkedIn – @codejavid
 
 > _You can't win DeepSeek_ 😈 

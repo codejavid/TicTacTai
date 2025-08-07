@@ -6,9 +6,9 @@ This project demonstrates how to use real LLMs like DeepSeek to build a smart AI
 
 ---
 
-## 🚀 Live Demo
+// ## 🚀 Live Demo
 
-> [Add your demo link here if hosted]
+// > [Add your demo link here if hosted]
 
 ---
 
@@ -62,6 +62,4 @@ This project demonstrates how to use real LLMs like DeepSeek to build a smart AI
 
 ## 📸 Screenshot
 
-> _You can't win DeepSeek_ 😈  
-```html
-<img src="./assets/screenshot.png" alt="TicTacTAI Screenshot" width="100%" />
+> _You can't win DeepSeek_ 😈 

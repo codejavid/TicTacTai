@@ -4,13 +4,6 @@ TicTacTAI is the **world's first** open-source Tic Tac Toe game built using **Re
 
 This project demonstrates how to use real LLMs like DeepSeek to build a smart AI opponent, and teaches fallback logic if the AI fails — making it a perfect project for students learning AI + React integration.
 
----
-
-// ## 🚀 Live Demo
-
-// > [Add your demo link here if hosted]
-
----
 
 ## 🧠 Tech Stack
 
